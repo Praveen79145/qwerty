@@ -1,2 +1,2 @@
 this is a file
-add new line 
+add a new line 
